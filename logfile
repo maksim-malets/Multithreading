@@ -1,0 +1,80 @@
+2020-01-22 20:13:40 [Thread-1] INFO  main.java.multithreading.thread.Ship - Корабль #17 приехал на причал #2
+2020-01-22 20:13:40 [Thread-0] INFO  main.java.multithreading.thread.Ship - Корабль #16 приехал на причал #1
+2020-01-22 20:13:40 [Thread-4] INFO  main.java.multithreading.thread.Ship - Корабль #20 приехал на причал #4
+2020-01-22 20:13:40 [Thread-5] INFO  main.java.multithreading.thread.Ship - Корабль #21 приехал на причал #5
+2020-01-22 20:13:40 [Thread-3] INFO  main.java.multithreading.thread.Ship - Корабль #19 приехал на причал #3
+2020-01-22 20:13:40 [Thread-0] INFO  main.java.multithreading.thread.Ship - Корабль #16 закончил разгрузку : 1 причал освобожден
+2020-01-22 20:13:40 [Thread-10] INFO  main.java.multithreading.thread.Ship - Корабль #26 приехал на причал #1
+2020-01-22 20:13:40 [Thread-3] INFO  main.java.multithreading.thread.Ship - Корабль #19 закончил разгрузку : 3 причал освобожден
+2020-01-22 20:13:40 [Thread-13] INFO  main.java.multithreading.thread.Ship - Корабль #29 приехал на причал #3
+2020-01-22 20:13:40 [Thread-5] INFO  main.java.multithreading.thread.Ship - Корабль #21 закончил разгрузку : 5 причал освобожден
+2020-01-22 20:13:40 [Thread-9] INFO  main.java.multithreading.thread.Ship - Корабль #25 приехал на причал #5
+2020-01-22 20:13:41 [Thread-1] INFO  main.java.multithreading.thread.Ship - Корабль #17 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:13:41 [Thread-12] INFO  main.java.multithreading.thread.Ship - Корабль #28 приехал на причал #2
+2020-01-22 20:13:41 [Thread-4] INFO  main.java.multithreading.thread.Ship - Корабль #20 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:13:41 [Thread-11] INFO  main.java.multithreading.thread.Ship - Корабль #27 приехал на причал #4
+2020-01-22 20:13:41 [Thread-10] INFO  main.java.multithreading.thread.Ship - Корабль #26 закончил разгрузку : 1 причал освобожден
+2020-01-22 20:13:41 [Thread-6] INFO  main.java.multithreading.thread.Ship - Корабль #22 приехал на причал #1
+2020-01-22 20:13:41 [Thread-9] INFO  main.java.multithreading.thread.Ship - Корабль #25 закончил разгрузку : 5 причал освобожден
+2020-01-22 20:13:41 [Thread-7] INFO  main.java.multithreading.thread.Ship - Корабль #23 приехал на причал #5
+2020-01-22 20:13:41 [Thread-11] INFO  main.java.multithreading.thread.Ship - Корабль #27 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:13:41 [Thread-14] INFO  main.java.multithreading.thread.Ship - Корабль #30 приехал на причал #4
+2020-01-22 20:13:41 [Thread-14] INFO  main.java.multithreading.thread.Ship - Корабль #30 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:13:41 [Thread-8] INFO  main.java.multithreading.thread.Ship - Корабль #24 приехал на причал #4
+2020-01-22 20:13:41 [Thread-8] INFO  main.java.multithreading.thread.Ship - Корабль #24 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:13:41 [Thread-15] INFO  main.java.multithreading.thread.Ship - Корабль #31 приехал на причал #4
+2020-01-22 20:13:41 [Thread-12] INFO  main.java.multithreading.thread.Ship - Корабль #28 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:13:41 [Thread-16] INFO  main.java.multithreading.thread.Ship - Корабль #32 приехал на причал #2
+2020-01-22 20:13:41 [Thread-6] INFO  main.java.multithreading.thread.Ship - Корабль #22 закончил разгрузку : 1 причал освобожден
+2020-01-22 20:13:41 [Thread-2] INFO  main.java.multithreading.thread.Ship - Корабль #18 приехал на причал #1
+2020-01-22 20:13:41 [Thread-13] INFO  main.java.multithreading.thread.Ship - Корабль #29 закончил разгрузку : 3 причал освобожден
+2020-01-22 20:13:41 [Thread-17] INFO  main.java.multithreading.thread.Ship - Корабль #33 приехал на причал #3
+2020-01-22 20:13:41 [Thread-16] INFO  main.java.multithreading.thread.Ship - Корабль #32 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:13:41 [Thread-18] INFO  main.java.multithreading.thread.Ship - Корабль #34 приехал на причал #2
+2020-01-22 20:13:41 [Thread-15] INFO  main.java.multithreading.thread.Ship - Корабль #31 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:13:41 [Thread-19] INFO  main.java.multithreading.thread.Ship - Корабль #35 приехал на причал #4
+2020-01-22 20:13:41 [Thread-2] INFO  main.java.multithreading.thread.Ship - Корабль #18 закончил разгрузку : 1 причал освобожден
+2020-01-22 20:13:41 [Thread-7] INFO  main.java.multithreading.thread.Ship - Корабль #23 закончил разгрузку : 5 причал освобожден
+2020-01-22 20:13:41 [Thread-17] INFO  main.java.multithreading.thread.Ship - Корабль #33 закончил разгрузку : 3 причал освобожден
+2020-01-22 20:13:41 [Thread-18] INFO  main.java.multithreading.thread.Ship - Корабль #34 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:13:41 [Thread-19] INFO  main.java.multithreading.thread.Ship - Корабль #35 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:16:50 [Thread-2] INFO  main.java.multithreading.thread.Ship - Корабль #18 приехал на причал #4
+2020-01-22 20:16:50 [Thread-1] INFO  main.java.multithreading.thread.Ship - Корабль #17 приехал на причал #2
+2020-01-22 20:16:50 [Thread-3] INFO  main.java.multithreading.thread.Ship - Корабль #19 приехал на причал #3
+2020-01-22 20:16:50 [Thread-0] INFO  main.java.multithreading.thread.Ship - Корабль #16 приехал на причал #1
+2020-01-22 20:16:50 [Thread-4] INFO  main.java.multithreading.thread.Ship - Корабль #20 приехал на причал #5
+2020-01-22 20:16:50 [Thread-2] INFO  main.java.multithreading.thread.Ship - Корабль #18 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:16:50 [Thread-8] INFO  main.java.multithreading.thread.Ship - Корабль #24 приехал на причал #4
+2020-01-22 20:16:50 [Thread-0] INFO  main.java.multithreading.thread.Ship - Корабль #16 закончил разгрузку : 1 причал освобожден
+2020-01-22 20:16:50 [Thread-12] INFO  main.java.multithreading.thread.Ship - Корабль #28 приехал на причал #1
+2020-01-22 20:16:50 [Thread-3] INFO  main.java.multithreading.thread.Ship - Корабль #19 закончил разгрузку : 3 причал освобожден
+2020-01-22 20:16:50 [Thread-5] INFO  main.java.multithreading.thread.Ship - Корабль #21 приехал на причал #3
+2020-01-22 20:16:50 [Thread-4] INFO  main.java.multithreading.thread.Ship - Корабль #20 закончил разгрузку : 5 причал освобожден
+2020-01-22 20:16:50 [Thread-13] INFO  main.java.multithreading.thread.Ship - Корабль #29 приехал на причал #5
+2020-01-22 20:16:50 [Thread-1] INFO  main.java.multithreading.thread.Ship - Корабль #17 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:16:50 [Thread-14] INFO  main.java.multithreading.thread.Ship - Корабль #30 приехал на причал #2
+2020-01-22 20:16:50 [Thread-14] INFO  main.java.multithreading.thread.Ship - Корабль #30 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:16:50 [Thread-18] INFO  main.java.multithreading.thread.Ship - Корабль #34 приехал на причал #2
+2020-01-22 20:16:50 [Thread-18] INFO  main.java.multithreading.thread.Ship - Корабль #34 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:16:50 [Thread-17] INFO  main.java.multithreading.thread.Ship - Корабль #33 приехал на причал #2
+2020-01-22 20:16:50 [Thread-8] INFO  main.java.multithreading.thread.Ship - Корабль #24 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:16:50 [Thread-15] INFO  main.java.multithreading.thread.Ship - Корабль #31 приехал на причал #4
+2020-01-22 20:16:50 [Thread-5] INFO  main.java.multithreading.thread.Ship - Корабль #21 закончил разгрузку : 3 причал освобожден
+2020-01-22 20:16:50 [Thread-11] INFO  main.java.multithreading.thread.Ship - Корабль #27 приехал на причал #3
+2020-01-22 20:16:50 [Thread-17] INFO  main.java.multithreading.thread.Ship - Корабль #33 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:16:50 [Thread-19] INFO  main.java.multithreading.thread.Ship - Корабль #35 приехал на причал #2
+2020-01-22 20:16:50 [Thread-15] INFO  main.java.multithreading.thread.Ship - Корабль #31 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:16:50 [Thread-16] INFO  main.java.multithreading.thread.Ship - Корабль #32 приехал на причал #4
+2020-01-22 20:16:50 [Thread-16] INFO  main.java.multithreading.thread.Ship - Корабль #32 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:16:50 [Thread-7] INFO  main.java.multithreading.thread.Ship - Корабль #23 приехал на причал #4
+2020-01-22 20:16:51 [Thread-12] INFO  main.java.multithreading.thread.Ship - Корабль #28 закончил разгрузку : 1 причал освобожден
+2020-01-22 20:16:51 [Thread-10] INFO  main.java.multithreading.thread.Ship - Корабль #26 приехал на причал #1
+2020-01-22 20:16:51 [Thread-7] INFO  main.java.multithreading.thread.Ship - Корабль #23 закончил разгрузку : 4 причал освобожден
+2020-01-22 20:16:51 [Thread-13] INFO  main.java.multithreading.thread.Ship - Корабль #29 закончил разгрузку : 5 причал освобожден
+2020-01-22 20:16:51 [Thread-6] INFO  main.java.multithreading.thread.Ship - Корабль #22 приехал на причал #5
+2020-01-22 20:16:51 [Thread-9] INFO  main.java.multithreading.thread.Ship - Корабль #25 приехал на причал #4
+2020-01-22 20:16:51 [Thread-10] INFO  main.java.multithreading.thread.Ship - Корабль #26 закончил разгрузку : 1 причал освобожден
+2020-01-22 20:16:51 [Thread-11] INFO  main.java.multithreading.thread.Ship - Корабль #27 закончил разгрузку : 3 причал освобожден
+2020-01-22 20:16:51 [Thread-19] INFO  main.java.multithreading.thread.Ship - Корабль #35 закончил разгрузку : 2 причал освобожден
+2020-01-22 20:16:51 [Thread-6] INFO  main.java.multithreading.thread.Ship - Корабль #22 закончил разгрузку : 5 причал освобожден
+2020-01-22 20:16:51 [Thread-9] INFO  main.java.multithreading.thread.Ship - Корабль #25 закончил разгрузку : 4 причал освобожден
